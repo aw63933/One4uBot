@@ -43,7 +43,7 @@ wget https://raw.githubusercontent.com/MoveAngel/One4uBot/sql-extended/terminal_
 
 ## How To Host?
 
-The easiest way to deploy this great w4lk3r bot! is click on button below.
+The easiest way to deploy this great w4lk3r bot! is click on button below with Walker logo
 Make sure you have an account of heroku and follow all the steps required.
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://https://github.com/aw63933/W41K3R-BOT/edit/sql-extended"> <img src="https://telegra.ph/file/c7634ace57484d50d14a4.jpg" alt="Deploy to Heroku" /></a></p>
