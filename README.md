@@ -1,4 +1,4 @@
-# One4uBot userbot project
+# W41K3R userbot project
 
 <p align="center">
     <a href="https://github.com/MoveAngel/One4uBot/actions?query=workflow%3AFailedChecker" > <img src="https://img.shields.io/github/workflow/status/MoveAngel/One4uBot/FailedChecker/sql-extended?label=Build&style=flat-square&logo=github-actions&logoColor=white&color=98CE00" alt="FailedChecker" /></a>
@@ -11,8 +11,7 @@
     <a href="https://hub.docker.com/r/movecrew/one4ubot"> <img src="https://img.shields.io/docker/image-size/movecrew/one4ubot/alpine-latest?label=Docker%20Size&style=flat-square&logo=docker&logoColor=white&color=1B98E0" alt="Docker Image" /></a><br>
     <a href="https://t.me/userbotindo"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
 </p>
-
-![logo](https://i.ibb.co/02QVkHC/headersmina.jpg)
+https://telegra.ph/file/c7634ace57484d50d14a4.jpg
 
 ```
 #include <std/disclaimer.h>
@@ -27,6 +26,7 @@
     And after that, then you pointed your fingers at us
     for getting your acoount deleted?
     I will be rolling on the floor laughing at you.
+    This a warning from w41k3r, please do not misuse our bot !!
 /**
 ```
 
@@ -43,7 +43,7 @@ wget https://raw.githubusercontent.com/MoveAngel/One4uBot/sql-extended/terminal_
 
 ## How To Host?
 
-The easiest way to deploy this great bot! is click on button below.
+The easiest way to deploy this great w4lk3r bot! is click on button below.
 Make sure you have an account of heroku and follow all the steps required.
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/MoveAngel/One4uBot/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
@@ -52,23 +52,9 @@ For further guide you can head to [Groups and Support](https://github.com/MoveAn
 
 ## Groups and Support
 
-if you want new features, or announcements, you can follow our [UserbotIndo Channel](https://t.me/userbotindocloud).
+if you want new features, or announcements, you can follow our [Userbot](https://t.me/kernel4vincechat).
 
-For discussion, bug reporting, and help, you can join [UserbotIndo Support Group](https://t.me/userbotindo).
+For discussion, bug reporting, and help, you can join [Userbot](https://t.me/kernel4vincechat).
 
-## Credits
-
-Thanks: 
-* [RaphielGang](https://github.com/RaphielGang) - Telegram-Paperplane
-* [AvinashReddy3108](https://github.com/AvinashReddy3108) - PaperplaneExtended
-* [kandnub](https://github.com/kandnub) - TG-UserBot
-* [AdekMaulana](https://github.com/adekmaulana) - ProjectBish
-* [Mr.Miss](https://github.com/keselekpermen69) - Userbutt
-* [GengKapak](https://github.com/GengKapak) - DCLXVI
-* [Mkaraniya](https://github.com/mkaraniya) & [Dev73](https://github.com/Devp73) - OpenUserBot
-
-and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/MoveAngel/One4uBot/graphs/contributors).
-
-## License
-
-This userbot licensed on [Raphielscape Public License](https://github.com/MoveAngel/One4uBot/blob/sql-extended/LICENSE) - Version 1.d, February 2020
+## GREETINGS FROM W41K3R
+You can always pm @aw63933
