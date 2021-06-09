@@ -52,9 +52,9 @@ For further guide you can head to [Groups and Support](https://github.com/MoveAn
 
 ## Groups and Support
 
-if you want new features, or announcements, you can follow our [UserbotIndo Channel](https://t.me/kernel4vincechat).
+if you want new features, or announcements, you can follow our [Userbot](https://t.me/kernel4vincechat).
 
-For discussion, bug reporting, and help, you can join [UserbotIndo Support Group](https://t.me/kernel4vincechat).
+For discussion, bug reporting, and help, you can join [Userbot](https://t.me/kernel4vincechat).
 
 ## GREETINGS FROM W41K3R
 You can always pm @aw63933
