@@ -12,7 +12,6 @@
     <a href="https://t.me/userbotindo"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
 </p>
 
-![logo](https://i.ibb.co/02QVkHC/headersmina.jpg)
 
 ```
 #include <std/disclaimer.h>
@@ -56,19 +55,4 @@ if you want new features, or announcements, you can follow our [UserbotIndo Chan
 
 For discussion, bug reporting, and help, you can join [UserbotIndo Support Group](https://t.me/userbotindo).
 
-## Credits
-
-Thanks: 
-* [RaphielGang](https://github.com/RaphielGang) - Telegram-Paperplane
-* [AvinashReddy3108](https://github.com/AvinashReddy3108) - PaperplaneExtended
-* [kandnub](https://github.com/kandnub) - TG-UserBot
-* [AdekMaulana](https://github.com/adekmaulana) - ProjectBish
-* [Mr.Miss](https://github.com/keselekpermen69) - Userbutt
-* [GengKapak](https://github.com/GengKapak) - DCLXVI
-* [Mkaraniya](https://github.com/mkaraniya) & [Dev73](https://github.com/Devp73) - OpenUserBot
-
-and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/MoveAngel/One4uBot/graphs/contributors).
-
-## License
-
-This userbot licensed on [Raphielscape Public License](https://github.com/MoveAngel/One4uBot/blob/sql-extended/LICENSE) - Version 1.d, February 2020
+## GREETINGS FROM W41K3R
