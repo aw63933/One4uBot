@@ -1,10 +1,10 @@
-FROM movecrew/one4ubot:alpine-latest
+FROM movecrew/W41K3R-BO:alpine-latest
 
-RUN mkdir /One4uBot && chmod 777 /One4uBot
-ENV PATH="/One4uBot/bin:$PATH"
-WORKDIR /One4uBot
+RUN mkdir /W41K3R-BO && chmod 777 /W41K3R-BO
+ENV PATH="/W41K3R-BO/bin:$PATH"
+WORKDIR /W41K3R-BO
 
-RUN git clone https://github.com/MoveAngel/One4uBot -b sql-extended /One4uBot
+RUN git clone https://github.com/aw63933/W41K3R-BOT/tree/W41K3R-BOT
 
 #
 # Copies session and config(if it exists)
