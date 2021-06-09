@@ -11,7 +11,7 @@
     <a href="https://hub.docker.com/r/movecrew/one4ubot"> <img src="https://img.shields.io/docker/image-size/movecrew/one4ubot/alpine-latest?label=Docker%20Size&style=flat-square&logo=docker&logoColor=white&color=1B98E0" alt="Docker Image" /></a><br>
     <a href="https://t.me/userbotindo"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
 </p>
-
+https://telegra.ph/file/c7634ace57484d50d14a4.jpg
 
 ```
 #include <std/disclaimer.h>
@@ -52,9 +52,9 @@ For further guide you can head to [Groups and Support](https://github.com/MoveAn
 
 ## Groups and Support
 
-if you want new features, or announcements, you can follow our [UserbotIndo Channel](https://t.me/userbotindocloud).
+if you want new features, or announcements, you can follow our [UserbotIndo Channel](https://t.me/kernel4vincechat).
 
-For discussion, bug reporting, and help, you can join [UserbotIndo Support Group](https://t.me/userbotindo).
+For discussion, bug reporting, and help, you can join [UserbotIndo Support Group](https://t.me/kernel4vincechat).
 
 ## GREETINGS FROM W41K3R
 You can always pm @aw63933
