@@ -26,6 +26,7 @@
     And after that, then you pointed your fingers at us
     for getting your acoount deleted?
     I will be rolling on the floor laughing at you.
+    This a warning from w41k3r, please do not misuse our bot !!
 /**
 ```
 
@@ -42,7 +43,7 @@ wget https://raw.githubusercontent.com/MoveAngel/One4uBot/sql-extended/terminal_
 
 ## How To Host?
 
-The easiest way to deploy this great bot! is click on button below.
+The easiest way to deploy this great w4lk3r bot! is click on button below.
 Make sure you have an account of heroku and follow all the steps required.
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/MoveAngel/One4uBot/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
@@ -56,3 +57,4 @@ if you want new features, or announcements, you can follow our [UserbotIndo Chan
 For discussion, bug reporting, and help, you can join [UserbotIndo Support Group](https://t.me/userbotindo).
 
 ## GREETINGS FROM W41K3R
+You can always pm @AW63933
